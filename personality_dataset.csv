@@ -1,3 +1,1 @@
-import kagglehub
-path = kagglehub.dataset_download("yasserh/bmidataset")
-print("Path to dataset files:", path)
+
